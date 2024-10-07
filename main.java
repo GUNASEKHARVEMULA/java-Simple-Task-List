@@ -24,7 +24,7 @@ public class main {
 						taskList.removeTask(taskNumber);
 					}
 				} else {
-					System.out.println("Invalid Task Number is selected.");
+					System.out.println("Invalid Task Number selected.");
 					
 				}
 				break;
